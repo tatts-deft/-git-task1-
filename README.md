@@ -1,1 +1,3 @@
-# -git-task1-
+cd ~/Desktop/git-task1
+
+
