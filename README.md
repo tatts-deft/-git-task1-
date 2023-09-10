@@ -1,3 +1,4 @@
-cd ~/Desktop/git-task1
+hello world
+
 
 
